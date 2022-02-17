@@ -1,0 +1,83 @@
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/appsettings.Development.json
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/appsettings.json
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/BetaService.deps.json
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/BetaService.runtimeconfig.json
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/BetaService.runtimeconfig.dev.json
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/BetaService.dll
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/ref/BetaService.dll
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/BetaService.pdb
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/edjacoby/Projects/BetaService999/BetaService999/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.csproj.AssemblyReference.cache
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.AssemblyInfoInputs.cache
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.AssemblyInfo.cs
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.csproj.CoreCompileInputs.cache
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.MvcApplicationPartsAssemblyInfo.cs
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.MvcApplicationPartsAssemblyInfo.cache
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/scopedcss/bundle/BetaService.styles.css
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/staticwebassets/BetaService.StaticWebAssets.Manifest.cache
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.RazorTargetAssemblyInfo.cache
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.csproj.CopyComplete
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.dll
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/ref/BetaService.dll
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.pdb
+/Users/edjacoby/Projects/BetaService999/BetaService999/obj/Debug/net5.0/BetaService.genruntimeconfig.cache
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/appsettings.Development.json
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/appsettings.json
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/BetaService.deps.json
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/BetaService.runtimeconfig.json
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/BetaService.runtimeconfig.dev.json
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/BetaService.dll
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/ref/BetaService.dll
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/BetaService.pdb
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.csproj.AssemblyReference.cache
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.AssemblyInfoInputs.cache
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.AssemblyInfo.cs
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.csproj.CoreCompileInputs.cache
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.MvcApplicationPartsAssemblyInfo.cs
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.MvcApplicationPartsAssemblyInfo.cache
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/scopedcss/bundle/BetaService.styles.css
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/staticwebassets/BetaService.StaticWebAssets.Manifest.cache
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.RazorTargetAssemblyInfo.cache
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.csproj.CopyComplete
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.dll
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/ref/BetaService.dll
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.pdb
+/Users/edjacoby/Projects/BetaService/BetaService/obj/Debug/net5.0/BetaService.genruntimeconfig.cache
+/Users/edjacoby/Projects/BetaService/BetaService/bin/Debug/net5.0/TestMarketData.csv
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/appsettings.Development.json
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/appsettings.json
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/TestMarketData.csv
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/BetaService.deps.json
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/BetaService.runtimeconfig.json
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/BetaService.runtimeconfig.dev.json
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/BetaService.dll
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/ref/BetaService.dll
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/BetaService.pdb
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.AssemblyInfo.cs
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/scopedcss/bundle/BetaService.styles.css
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/staticwebassets/BetaService.StaticWebAssets.Manifest.cache
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.RazorTargetAssemblyInfo.cache
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.csproj.CopyComplete
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.dll
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/ref/BetaService.dll
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.pdb
+/Volumes/GoogleDrive/My Drive/Family/Training/Interview Prep/Company Specific Questions/Schonfeld/BetaService/BetaService/obj/Debug/net5.0/BetaService.genruntimeconfig.cache
